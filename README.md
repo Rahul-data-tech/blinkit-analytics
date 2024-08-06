@@ -18,4 +18,3 @@ CHARTS REQUIREMENTS
              Additional KPI matrix: Asses how other KPIs (Average sales,no of items,average rating) vary         with fat content. 
 4. Total sales by outlet establishment: 
  Objective: Evaluate how the age or type of outlet establishment influences the sales.
-![Uploading image.png…]()
